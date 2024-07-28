@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# Environment
+.env
+venv
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Spotify cache
+.cache
+
+# Playlists
+playlists/
+*.py[cod]
+created_playlists.txt
+
+# Specific playlist files
+atmospheric_downtempo.py
+electro_house_odyssey.py
+katie_moody_mix.py
