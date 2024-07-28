@@ -42,7 +42,9 @@ To create your own playlists, follow this format in separate Python files within
 
 ## Setup
 
-1. Clone the repository: 
+1. Clone the repository:
+`git clone https://github.com/austinmaguire/spotify-playlist-creator.git`
+`cd spotify-playlist-creator`
 
 2. Install dependencies:
 `pip install -r requirements.txt`
